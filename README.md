@@ -28,17 +28,20 @@
 # Model
 Character Level Embedding + Bi-directional LSTM + multi-layer CNN + Fully connect layer
 
--><strong>Code is private but you can see details with [my paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07503227)</strong>
-
+-><strong>Data is private but you can see details with [our paper](http://www.dbpia.co.kr/Journal/ArticleDetail/NODE07503227)</strong>
 
 # Score
 Mse : 2.67
-2ND price at final 
+2nd prize at final
 
+# Authors
+**Yongwoo Cho(조용우)**
+- https://nomorecoke.github.io/
+- https://github.com/nomorecoke
 
-
-
-
+**Gyusu Han(한규수)**
+- https://gyusu.github.io/
+- https://github.com/gyusu
 
 ## License
 ```
